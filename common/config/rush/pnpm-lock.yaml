@@ -243,6 +243,10 @@ specifiers:
   '@rush-temp/keyvault-keys': file:./projects/keyvault-keys.tgz
   '@rush-temp/keyvault-secrets': file:./projects/keyvault-secrets.tgz
   '@rush-temp/logger': file:./projects/logger.tgz
+  '@rush-temp/maps-common': file:./projects/maps-common.tgz
+  '@rush-temp/maps-render': file:./projects/maps-render.tgz
+  '@rush-temp/maps-route': file:./projects/maps-route.tgz
+  '@rush-temp/maps-search': file:./projects/maps-search.tgz
   '@rush-temp/mixed-reality-authentication': file:./projects/mixed-reality-authentication.tgz
   '@rush-temp/mixed-reality-remote-rendering': file:./projects/mixed-reality-remote-rendering.tgz
   '@rush-temp/mock-hub': file:./projects/mock-hub.tgz
@@ -546,6 +550,10 @@ dependencies:
   '@rush-temp/keyvault-keys': file:projects/keyvault-keys.tgz
   '@rush-temp/keyvault-secrets': file:projects/keyvault-secrets.tgz
   '@rush-temp/logger': file:projects/logger.tgz
+  '@rush-temp/maps-common': file:projects/maps-common.tgz
+  '@rush-temp/maps-render': file:projects/maps-render.tgz
+  '@rush-temp/maps-route': file:projects/maps-route.tgz
+  '@rush-temp/maps-search': file:projects/maps-search.tgz
   '@rush-temp/mixed-reality-authentication': file:projects/mixed-reality-authentication.tgz
   '@rush-temp/mixed-reality-remote-rendering': file:projects/mixed-reality-remote-rendering.tgz
   '@rush-temp/mock-hub': file:projects/mock-hub.tgz
